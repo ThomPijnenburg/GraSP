@@ -1,0 +1,11 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+*.build
+.private
+App/.swiftpm
+Package.resolved
+DerivedData/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
